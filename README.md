@@ -15,7 +15,7 @@
 
 
 ## Setup
-1.Run the command on your terminal `npm install` to install required dependencies.
-2.Run the command on your terminal 'npm start' to start the server running on the port 5000.
-3. Now then just go and type 'localhost:5000' on your system's browser then it will run fine.
+- Run the command on your terminal `npm install` to install required dependencies.
+- Run the command on your terminal 'npm start' to start the server running on the port 5000.
+- Now then just go and type 'localhost:5000' on your system's browser then it will run fine.
 
