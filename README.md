@@ -20,3 +20,9 @@
 - Run the command on your terminal 'npm start' to start the server running on the port 5000.
 - Now then just go and type 'localhost:5000' on your system's browser then it will run fine.
 
+## IMAGES
+![signup](https://user-images.githubusercontent.com/131695481/236145458-ff02e2bb-fc1a-4c36-bba8-928b1b85001b.PNG)
+![signinpage](https://user-images.githubusercontent.com/131695481/236145477-0abe0554-5c23-4671-b643-37af1c867fbf.PNG)
+![addstudent](https://user-images.githubusercontent.com/131695481/236145515-6ff19ef1-9f37-4690-9212-624996fa06c0.PNG)
+![addinterview](https://user-images.githubusercontent.com/131695481/236145529-d118a0cc-98f9-4e56-9c17-8776bed5cc61.PNG)
+![userprofile](https://user-images.githubusercontent.com/131695481/236145544-a667ec6e-eb13-4699-8fdc-fe345c379330.PNG)
