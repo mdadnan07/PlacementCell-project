@@ -6,15 +6,16 @@
 
 ## Features
 
-- Sign up / Sign in forms for employees
-- Add a new student to the list of students
-- Allocate and schedule interview with different companies and update their result status
-- Download reports of students in csv format
+- Sign up / Sign in forms for employees.
+- Add a new student to the list of students.
+- Allocate and schedule interview with different companies and update their result status.
+- Download reports of students in csv format.
+- Deallocate the student from an interview.
 
 
 
 ## Setup
+1.Run the command on your terminal `npm install` to install required dependencies.
+2.Run the command on your terminal 'npm start' to start the server running on the port 5000.
+3. Now then just go and type 'localhost:5000' on your system's browser then it will run fine.
 
-Run `npm install` to install required dependencies.
-## Start
-run npm start
