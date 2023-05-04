@@ -12,7 +12,8 @@
 - Download reports of students in csv format.
 - Deallocate the student from an interview.
 
-
+## Hosting URL 
+- https://placementcell-xw7d.onrender.com
 
 ## Setup
 - Run the command on your terminal `npm install` to install required dependencies.
